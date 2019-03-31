@@ -1,0 +1,225 @@
+        .centeredPage{
+            max-width: 1080px;
+            min-width: 200px;
+            margin: 0 auto !important;
+            float: none !important;
+        }
+        #div_firstSec{
+        }
+        #div_topbar{
+            height: 10%;
+            width: 100%;
+            background-color: white;
+            border-bottom: 3px black solid;
+            display: table;
+        }
+        #div_topbarLogo{
+            height: 100%;
+            width: 100px;
+            float: left;
+            background-color: black;
+            display: table;
+            text-align: center;
+        }
+        #link_siteLogo{
+            color: white;
+            font-weight: bolder;
+            text-decoration: none;
+            font-size: 30;
+            display: table-cell;
+            vertical-align: middle;
+        }
+        #link_siteLogo:hover{
+            color: #4587C5;
+        }
+        .link_topbarMenu{
+            color: #C6C6C6;
+            font-weight: bolder;
+            text-decoration: none;
+            font-size: 30;
+            padding-left: 0px;
+            display: table-cell;
+            vertical-align: middle;
+            text-align:right; 
+        }
+        .link_topbarMenu:hover{
+            color: #4587C5;
+        }
+        #div_descAndPic{
+            height: 500px;
+            width: 100%;
+            margin-top: 80px;
+            margin-bottom: 80px;
+        }
+        #img_image{
+            width: auto;
+            max-width: 100%;
+            max-height: 100%;
+            height: auto;
+            margin: auto;
+        }
+        #div_pic{
+            width: 45%;
+            height:100%;
+            float:left;
+            text-align: center;
+        }
+        #div_desc_Space{
+            width: 10%;
+            height:100%;
+            float:left;
+        }
+        #div_Desc{
+            text-align: left;
+            width: 45%;
+            float: left;
+        }
+        #div_featured{
+            height: 500px;
+            width: 100%;
+            background-color: #F6F6F6;
+        }
+        .div_feat_title{
+            height: 10%;
+            width: 100%;
+        }
+        .p_feat_title{
+            font-size: 50;
+            font-weight: bold;
+            text-align: center;
+        }
+
+        .p_desc_tilte{
+            font-size: 50;
+            font-weight: bold;
+        }
+        .p_desc_phrase{
+            font-size: 30;
+            font-weight: bold;
+        }
+        .p_desc_desc{
+            font-size: 20;
+            margin-bottom: 50px;
+        }
+        #div_projectDesc{
+            height: 400px;
+            width: 100%;
+            border-bottom: 1px gray solid;
+            padding-top: 50px;
+            padding-bottom: 50px;
+        }
+        #img_feat_image{
+            width: auto;
+            max-width: 100%;
+            max-height: 100%;
+            height: auto;
+            margin: auto;
+        }
+        .button{
+            font-size: 18;
+            padding: 20px 20px;
+            display: inline-block;
+            text-decoration: none;
+            border-radius: 3px;
+        }
+        .primary_button{
+            background: #4587C5;
+            color: white;
+            margin-right: 10px;
+        }
+        .primary_button:hover{
+            background: #6896c1;
+        }
+        .p_desc_list{
+            font-size: 20;
+        }
+        .div_lastPart{
+            height: 300px;
+            width: 100%;
+            display: table;
+            text-align: center;
+            background-color: white;
+        }
+        .p_bigBlackText{
+            font-size: 50;
+            font-weight: bolder;
+            color: black;
+            width: 100%;
+            display: table-cell;
+            vertical-align: middle;
+        }
+        #div_footer{
+            height: 100px;
+            width: 100%;
+            background-color: white;
+            border-top: 1px gray solid;
+        }
+        .foot_grayText{
+            color: gray;
+        }
+
+
+        
+        .pageWrap{
+                float: left;
+        }
+        .div_title{
+            height: 300px;
+            width: 100%;
+            display: table;
+            text-align: center;
+            background-color: white;
+            border-bottom: 1px gray solid;
+        }
+        .bigtextBlack{
+            font-size: 50;
+            font-weight: bolder;
+            color: black;
+            width: 100%;
+            float: left;
+        }
+        .bigtextGray{
+            font-size: 40;
+            font-weight: bolder;
+            color: gray;
+            width: 100%;
+            float: left;
+            margin: 0;
+        }
+        .cernterText{
+            display: table-cell;
+            vertical-align: middle;
+        }
+        .defautText{
+            font-size: 20;
+        }
+        .div_leftPic{
+            width: 40%;
+            height: 100%;
+            float: left;
+            text-align: center;
+            margin-right: 10%;
+        }
+        .div_rightPic{
+            width: 40%;
+            height: 100%;
+            float: left;
+            margin-left: 10%;
+            text-align: center;
+        }
+        .div_picHolder{
+            width: 100%;
+            height: 400px;
+            margin-bottom: 50px;
+        }
+
+        .div_bigPic{
+            width: 100%;
+            height: 100%;
+            float: left;
+        }
+        .div_bigpicHolder{
+            width: 100%;
+            height: 640px;
+            margin-bottom: 50px;
+        }
