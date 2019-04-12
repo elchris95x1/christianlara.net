@@ -13,7 +13,7 @@
         <link rel="stylesheet" type="text/css" href="styles.css">
 
         <!--site logo to be displayed in the tab section-->
-        <link rel="shortcut icon" href="imgs/cl.png" type="image/x-icon" />
+        <link rel="icon" type="image/png" href="imgs/cl.png" />
 
         <!-- css library w3.css -->
         <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
@@ -21,30 +21,29 @@
         <!-- Icons font -->
         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 
-
-
         <!--Tab Title-->
         <title>Christian Lara</title>
     </head>
     
     <body>
 
-        
-        </div>
             <!--This is the interactive navbar-->
             <div class="container">
                 <nav class="navbar navbar-expand-lg navbar-light bg-transparent">
-                    <a class="navbar-brand" href="#">CL</a>
+                    <a class="navbar-brand">CL</a>
                     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
                     <span class="navbar-toggler-icon"></span>
                     </button>
                     <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
                         <div class="navbar-nav">
-                            <a class="nav-item nav-link active" href="index.html">Home <span class="sr-only">(current)</span></a>
-                            <a class="nav-item nav-link" href="projects.html">Projects</a>
-                            <a class="nav-item nav-link" href="#">Contact</a>
+                            <a class="nav-item nav-link active" href="#div_about">About<span class="sr-only">(current)</span></a>
+                            <a class="nav-item nav-link" href="#projects">Projects</a>
+                            <a class="nav-item nav-link" href="#contact">Contact</a>
                         </div>
                     </div>
+                    <form class="form-inline my-2 my-lg-0">
+                        <a class="btn btn-outline-success my-2" href="files/Resume.pdf" target="_blank">Resume</a>
+                    </form>
                 </nav>
             </div>
                         
@@ -62,7 +61,7 @@
                     </div>
                     
                     <div id="div_pic">
-                        <img src="imgs/wk.png" class="rounded mx-auto d-block">
+                        <img src="imgs/wk.png" class="img-fluid">
                     </div>
                 </div>
 
@@ -76,24 +75,34 @@
                         application development. I want to improve my skills in a professional 
                         work environment while gaining vital work experience.</p>
                     </article>
-
+                        
                     <article>
                         <h2>Skills</h2>
-
-                        <?php 
-                            
+                        <?php
+                            include 'functions.php';
+                            displayProgressBar('C#',70);
+                            displayProgressBar('Java',60);
+                            displayProgressBar('JS',65);
+                            displayProgressBar('MySql',60);
+                            displayProgressBar('C++',50);
+                            displayProgressBar('VB',50);
+                            displayProgressBar('HTML',75);
+                            displayProgressBar('CSS',70);
+                            displayProgressBar('Botstrap',60);
+                            displayProgressBar('PHP',45);
+                            displayProgressBar('jQuery',40);
                         ?>
                     </article>
                 </div>
             </div>
                         
                     
-            <div id="div_featured">
+            <div id="projects">
                 <div class="container text-center py-5">
                     <h2 class="pb-5">Featured Work</h2>
                         <div class="card-deck">
                         <div class="card">
-                            <img src="imgs/vm.png" class="card-img-top niceImg" alt="...">
+                            <img src="imgs/vm.PNG" class="card-img-top niceImg" alt="...">
                             <div class="card-body">
                                 <h5 class="card-title font-weight-bold">Vending Machine</h5>
                                 <p class="card-text">This application allows a user to create, load, and 
@@ -145,7 +154,7 @@
             </div>
 
                     
-            <div class="div_lastPart secundarybg">
+            <div id="contact" class="div_lastPart secundarybg">
                 <div class="container pt-5 text-center">
                     <h1 class="p_bigBlackText text-center pb-3">Let's Work Together</h1>
 
@@ -160,10 +169,6 @@
                         <h5 class="pb-2">Or find me on</h5>
                     </div>
                     <div class="pb-5">
-                        <a class="fa fa-facebook-official" target="_blank" 
-                        style="font-size:48px;" href="https://www.facebook.com/cristian.laraalvarez"></a>
-                        <a class="fa fa-twitter" target="_blank" 
-                        style="font-size:48px;" href="https://twitter.com/kisssifurUtube?lang=en"></a>
                         <a class="fa fa-github" target="_blank" 
                         style="font-size:48px;" href="https://github.com/lcristian34"></a>
                         <a class="fa fa-linkedin" target="_blank" 

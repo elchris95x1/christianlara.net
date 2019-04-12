@@ -1,0 +1,36 @@
+[22-Feb-2019 22:56:44 UTC] PHP Parse error:  syntax error, unexpected '$skill' (T_VARIABLE), expecting ',' or ';' in /home/ensjm1rxnokb/public_html/functions.php on line 4
+[22-Feb-2019 22:58:55 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function displayProgressBar() in /home/ensjm1rxnokb/public_html/index.php:80
+Stack trace:
+#0 {main}
+  thrown in /home/ensjm1rxnokb/public_html/index.php on line 80
+[22-Feb-2019 22:59:24 UTC] PHP Parse error:  syntax error, unexpected '$skill' (T_VARIABLE), expecting ',' or ';' in /home/ensjm1rxnokb/public_html/functions.php on line 4
+[22-Feb-2019 23:00:37 UTC] PHP Parse error:  syntax error, unexpected '$skill' (T_VARIABLE), expecting ',' or ';' in /home/ensjm1rxnokb/public_html/functions.php on line 4
+[22-Feb-2019 23:06:02 UTC] PHP Parse error:  syntax error, unexpected '$skill' (T_VARIABLE), expecting ',' or ';' in /home/ensjm1rxnokb/public_html/functions.php on line 4
+[22-Feb-2019 23:06:06 UTC] PHP Parse error:  syntax error, unexpected '$skill' (T_VARIABLE), expecting ',' or ';' in /home/ensjm1rxnokb/public_html/functions.php on line 4
+[22-Feb-2019 23:06:37 UTC] PHP Parse error:  syntax error, unexpected '$skill' (T_VARIABLE), expecting ',' or ';' in /home/ensjm1rxnokb/public_html/functions.php on line 4
+[22-Feb-2019 23:06:52 UTC] PHP Parse error:  syntax error, unexpected 'include' (T_INCLUDE), expecting ',' or ';' in /home/ensjm1rxnokb/public_html/test.php on line 3
+[22-Feb-2019 23:08:46 UTC] PHP Parse error:  syntax error, unexpected 'include' (T_INCLUDE), expecting ',' or ';' in /home/ensjm1rxnokb/public_html/test.php on line 4
+[22-Feb-2019 23:09:12 UTC] PHP Parse error:  syntax error, unexpected 'include' (T_INCLUDE), expecting ',' or ';' in /home/ensjm1rxnokb/public_html/test.php on line 4
+[22-Feb-2019 23:09:15 UTC] PHP Parse error:  syntax error, unexpected 'include' (T_INCLUDE), expecting ',' or ';' in /home/ensjm1rxnokb/public_html/test.php on line 4
+[22-Feb-2019 23:09:16 UTC] PHP Parse error:  syntax error, unexpected 'include' (T_INCLUDE), expecting ',' or ';' in /home/ensjm1rxnokb/public_html/test.php on line 4
+[22-Feb-2019 23:09:51 UTC] PHP Parse error:  syntax error, unexpected 'include' (T_INCLUDE), expecting ',' or ';' in /home/ensjm1rxnokb/public_html/test.php on line 4
+[22-Feb-2019 23:10:16 UTC] PHP Parse error:  syntax error, unexpected 'include' (T_INCLUDE), expecting ',' or ';' in /home/ensjm1rxnokb/public_html/test.php on line 4
+[22-Feb-2019 23:10:58 UTC] PHP Parse error:  syntax error, unexpected 'include' (T_INCLUDE), expecting ',' or ';' in /home/ensjm1rxnokb/public_html/test.php on line 4
+[22-Feb-2019 23:11:00 UTC] PHP Parse error:  syntax error, unexpected 'include' (T_INCLUDE), expecting ',' or ';' in /home/ensjm1rxnokb/public_html/test.php on line 4
+[22-Feb-2019 23:11:33 UTC] PHP Parse error:  syntax error, unexpected 'include' (T_INCLUDE), expecting ',' or ';' in /home/ensjm1rxnokb/public_html/test.php on line 4
+[22-Feb-2019 23:11:39 UTC] PHP Parse error:  syntax error, unexpected 'include' (T_INCLUDE), expecting ',' or ';' in /home/ensjm1rxnokb/public_html/test.php on line 4
+[22-Feb-2019 23:12:25 UTC] PHP Parse error:  syntax error, unexpected 'include' (T_INCLUDE), expecting ',' or ';' in /home/ensjm1rxnokb/public_html/test.php on line 4
+[22-Feb-2019 23:14:06 UTC] PHP Parse error:  syntax error, unexpected 'include' (T_INCLUDE), expecting ',' or ';' in /home/ensjm1rxnokb/public_html/test.php on line 4
+[22-Feb-2019 23:15:45 UTC] PHP Parse error:  syntax error, unexpected 'include' (T_INCLUDE), expecting ',' or ';' in /home/ensjm1rxnokb/public_html/test.php on line 4
+[22-Feb-2019 23:16:15 UTC] PHP Parse error:  syntax error, unexpected 'include' (T_INCLUDE), expecting ',' or ';' in /home/ensjm1rxnokb/public_html/test.php on line 4
+[22-Feb-2019 23:33:43 UTC] PHP Parse error:  syntax error, unexpected '$subject' (T_VARIABLE), expecting ',' or ';' in /home/ensjm1rxnokb/public_html/functions.php on line 9
+[22-Feb-2019 23:35:11 UTC] PHP Parse error:  syntax error, unexpected '$subject' (T_VARIABLE), expecting ',' or ';' in /home/ensjm1rxnokb/public_html/functions.php on line 9
+[22-Feb-2019 23:35:45 UTC] PHP Parse error:  syntax error, unexpected '$subject' (T_VARIABLE), expecting ';' in /home/ensjm1rxnokb/public_html/functions.php on line 9
+[22-Feb-2019 23:37:38 UTC] PHP Parse error:  syntax error, unexpected '$subject' (T_VARIABLE), expecting ',' or ';' in /home/ensjm1rxnokb/public_html/functions.php on line 9
+[22-Feb-2019 23:37:44 UTC] PHP Parse error:  syntax error, unexpected '$subject' (T_VARIABLE), expecting ',' or ';' in /home/ensjm1rxnokb/public_html/functions.php on line 9
+[22-Feb-2019 23:40:58 UTC] PHP Parse error:  syntax error, unexpected '$subject' (T_VARIABLE), expecting ',' or ';' in /home/ensjm1rxnokb/public_html/functions.php on line 9
+[22-Feb-2019 23:43:00 UTC] PHP Parse error:  syntax error, unexpected '$subject' (T_VARIABLE), expecting ',' or ';' in /home/ensjm1rxnokb/public_html/functions.php on line 6
+[22-Feb-2019 23:46:44 UTC] PHP Parse error:  syntax error, unexpected '$subject' (T_VARIABLE), expecting ',' or ';' in /home/ensjm1rxnokb/public_html/functions.php on line 6
+[22-Feb-2019 23:49:44 UTC] PHP Parse error:  syntax error, unexpected ''</div>' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home/ensjm1rxnokb/public_html/functions.php on line 13
+[22-Feb-2019 23:57:42 UTC] PHP Parse error:  syntax error, unexpected ''</div>' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home/ensjm1rxnokb/public_html/functions.php on line 13
+[23-Feb-2019 00:06:04 UTC] PHP Notice:  Undefined variable: sunject in /home/ensjm1rxnokb/public_html/functions.php on line 5
