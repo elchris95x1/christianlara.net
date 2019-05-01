@@ -1,0 +1,48 @@
+.container{
+    background-color: transparent;
+}
+
+body{
+    max-width: 100%;
+    min-width: 200px;
+    margin: 0 auto !important;
+    float: none !important;
+    background-color:white;
+    color: #525661;
+}
+
+
+.secundarybg{
+    background-color: lightgray;
+}
+
+.centered {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.carousel{
+    width: 100%;
+}
+
+.cheight{
+    height: 500px;
+}
+
+.niceImg{
+    height: 250px;
+    object-fit: cover;
+    object-position: center center;
+}
+
+.niceLink{
+    color: #087FFF;
+}
+
+.opacity50{
+    opacity: 0.5;
+    filter: alpha(opacity=50); /* For IE8 and earlier */
+}
+
+
